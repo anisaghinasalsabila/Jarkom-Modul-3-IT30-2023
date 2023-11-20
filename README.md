@@ -6,8 +6,6 @@
 ## Topologi
 ![Screenshot 2023-11-20 183345](https://github.com/anisaghinasalsabila/Jarkom-Modul-3-IT30-2023/assets/113872836/9336b354-3725-4837-9ce6-d4af0d452f31)
 
-![Uploading Screenshot 2023-11-20 183345.png…]()
-
 ## Config
 Statistic:
 
