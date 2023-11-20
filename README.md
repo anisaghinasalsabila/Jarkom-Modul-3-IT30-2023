@@ -1,9 +1,11 @@
 # Jarkom-Modul-3-IT30-2023
 
-### 1. Refaldi
+### 1. Refaldi Agustian 5027211015
 ### 2. Anisa Ghina Salsabila 5027211062
 
 ## Topologi
+![Screenshot 2023-11-20 183345](https://github.com/anisaghinasalsabila/Jarkom-Modul-3-IT30-2023/assets/113872836/9336b354-3725-4837-9ce6-d4af0d452f31)
+
 ![Uploading Screenshot 2023-11-20 183345.png…]()
 
 ## Config
@@ -324,10 +326,12 @@ subnet 192.248.1.0 netmask 255.255.255.0 {
 }
 
 ```
-![Uploading Screenshot 2023-11-20 193153.png…]()
+![Screenshot 2023-11-20 193153](https://github.com/anisaghinasalsabila/Jarkom-Modul-3-IT30-2023/assets/113872836/3688456c-78e9-4ec0-aa0c-c02ef4490b1b)
 
 
-![Uploading Screenshot 2023-11-20 193342.png…]()
+![Screenshot 2023-11-20 193342](https://github.com/anisaghinasalsabila/Jarkom-Modul-3-IT30-2023/assets/113872836/39b04114-627c-40a8-b7a9-5a29331db9a3)
+
+
 
 
 
